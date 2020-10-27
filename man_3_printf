@@ -1,0 +1,16 @@
+.TH _PRINTF
+.SH NAME
+_print Print parameter(s) to standard output
+.SH SYNOPSIS
+int _printf(const char *format, ...)
+.SH DESCRIPTION
+
+.SH OPTIONS
+The _printf does not take any options.
+.SH SEE ALSO
+printf, fprintf, puts, write.
+.SH BUGS
+Report Bugs to nyikal1999@gmail.com
+/ademolaglory2003@gmail
+.SH AUTHOR
+Written by Oyugo Obonyo and Glory Ademola
