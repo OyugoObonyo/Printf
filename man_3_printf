@@ -4,7 +4,21 @@ _print Print parameter(s) to standard output
 .SH SYNOPSIS
 int _printf(const char *format, ...)
 .SH DESCRIPTION
-
+The _printf command delivers output as per the following specifiers:
+.B c
+- Prints a character
+.br
+.B d
+- Prints a decimal
+.br
+.B i,d
+- Prints an integer/decimal
+.br
+.B s
+- Prints a string
+.br
+.B %
+- Prints a percentage, the character is not converted
 .SH OPTIONS
 The _printf does not take any options.
 .SH SEE ALSO
