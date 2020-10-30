@@ -1,4 +1,4 @@
-#_printf
+#The _printf function.
 This is  our creation and case implementation of the `_printf` function (A function similar to the popular **printf** function in the C programming language)
 ## Description
 The function prints out all arguments passed to it to the standard output.
